@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./pydantic-ai-advanced-researcher/web_search_agent_"
+    ]
+}
